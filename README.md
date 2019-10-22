@@ -1,7 +1,7 @@
 # kubernetesProvisioning
 Scripts to help provision a Kubernetes Cluster
 
-Adapted from Kubernetes Essential on Linux Academy taught by William Boyd
+Adapted from Kubernetes Essentials on Linux Academy taught by William Boyd
 
 Steps:
 1. Fix the vimrc and set the Git global variables
